@@ -6,7 +6,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>{children}
-        <div>abcd12</div>
+        <div>a</div>
       </body>
     </html>
   );
